@@ -4,11 +4,13 @@ Your wardrobe in your pocket: build outfits and plan what to wear
 
 ## Status
 
-Planning. See [`docs/SPEC.md`](docs/SPEC.md).
+Planning. #15 of 15 in the portfolio build order (medium). See [`docs/SPEC.md`](docs/SPEC.md).
 
 ## How it makes money
 
-_TBD, see SPEC._
+- **Free:** Limited wardrobe size
+- **Paid:** £4.99/month: unlimited wardrobe, planner, analytics
+- **Ads:** None or minimal
 
 ## Run locally
 
