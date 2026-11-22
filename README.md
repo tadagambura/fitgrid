@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Seasonal wardrobe review |
 | Cadence | Daily |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Outfits snap together and do a little runway walk
+- Outfit built: the clothes snap together and strut down a runway
+- Outfit of the day: the mirror winks
+- Unworn for 90 days: a forgotten jumper waves from the back of the wardrobe
+- Cost-per-wear drops: the price tag shrinks
+- Week planned: the hangers do the can-can
 
 **Line we don't cross:** Never comments on bodies or looks.
 
