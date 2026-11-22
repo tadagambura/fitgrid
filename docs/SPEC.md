@@ -1,6 +1,6 @@
 # FitGrid: Spec
 
-**Your wardrobe in your pocket** · #24 of 32 · Wave 2: Recurring keepers · Used: Daily · Harder · Revenue potential: Medium · Social, Play & Style · Source: ChatGPT
+**Your wardrobe in your pocket** · #24 of 31 · Wave 2: Recurring keepers · Used: Daily · Harder · Revenue potential: Medium · Social, Play & Style · Source: ChatGPT
 
 ## One-liner
 
